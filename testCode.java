@@ -1,4 +1,5 @@
 public class testCode {
 public static void main (String [] args) {
-System.out.println("Testing the repository on github")
-}}
+System.out.println("Testing the repository on github");
+  }
+}
