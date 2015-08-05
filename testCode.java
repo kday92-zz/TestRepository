@@ -4,7 +4,7 @@ public static void main (String [] args) {
   int b = 2;
   System.out.println("Testing the repository on github");
  
-  //Check to see if git gives me errors on mistakes inside of the code
+  //Check to see if git gives me errors on mistakes inside of the code = no
   String k = a+b;
   anArray = new int[2];
   anArray[1] = a;
